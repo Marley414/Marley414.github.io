@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  position: relative; right: 0%; top: 48%;
+}
+
+body {
+  background-image: url("Images/c346d5b43502a2ba329f6f2a414f2c3d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  padding-top: 200px;
+  font-family: "PT-Serif-Caption";
+}
+
+h5 {
+  position: relative; left: 150%; down: 30%;
+  padding-bottom: 400px;
+  font-family: "Roboto-Serif";
+
+}
